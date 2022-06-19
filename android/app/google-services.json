@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519638457474",
+    "project_id": "examconnect-da70a",
+    "storage_bucket": "examconnect-da70a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519638457474:android:c566dd104f972c7b53a89b",
+        "android_client_info": {
+          "package_name": "com.vktech.examconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519638457474-eeum8p58agk6vbnmtou0j2iaoa4bodeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfedjXxtluJMIX9oJfQl3njvhoFi5LM6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519638457474-eeum8p58agk6vbnmtou0j2iaoa4bodeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
